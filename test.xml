@@ -1,0 +1,9 @@
+ <test>
+   <lista>Paths</lista> 
+   <linia>
+       <path>XMLShare</path>
+   </linia>
+   <linia>
+       <path>XMLShare\InboundMsgPPR</path>
+   </linia>
+ </test>
